@@ -1,0 +1,5 @@
+{
+  "name": "Student Pesa Admin",
+  "description": "Comprehensive admin console for managing student smart cards, agents, and transactions.",
+  "requestFramePermissions": []
+}
